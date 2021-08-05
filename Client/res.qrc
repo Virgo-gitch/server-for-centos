@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/pic">
+        <file>image/01.png</file>
+        <file>image/down1.bmp</file>
+        <file>image/up1.bmp</file>
+        <file>image/pause.png</file>
+        <file>image/RedGreen.png</file>
+        <file>image/search.jpg</file>
+        <file>image/red.png</file>
+        <file>image/green.png</file>
+        <file>image/pause1.png</file>
+        <file>image/restart1.png</file>
+        <file>image/stop1.png</file>
+        <file>image/restart.png</file>
+        <file>image/stop.png</file>
+        <file>image/exit.png</file>
+        <file>image/after.png</file>
+        <file>image/again.png</file>
+        <file>image/back.png</file>
+        <file>image/before.png</file>
+        <file>image/delete.png</file>
+        <file>image/find.png</file>
+        <file>image/forward.png</file>
+        <file>image/refresh.png</file>
+        <file>image/set.png</file>
+        <file>image/up.png</file>
+        <file>image/page.png</file>
+        <file>image/modify.png</file>
+        <file>image/lose.jpg</file>
+        <file>image/success.jpg</file>
+        <file>image/startup.jpg</file>
+        <file>image/ok.jpg</file>
+        <file>image/next_defect.jpg</file>
+        <file>image/nowarn.jpg</file>
+        <file>image/pre_defect.jpg</file>
+        <file>image/warn.jpg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>style.qss</file>
+        <file>style1.qss</file>
+    </qresource>
+</RCC>
